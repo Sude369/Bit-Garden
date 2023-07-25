@@ -111,8 +111,6 @@
 	- [.\_\_call\_\_\(\)](https://realpython.com/python-callable-instances/)
 	- [.\_\_repr\_\_\(\) vs .\_\_str\_\_\(\) in Python](https://realpython.com/python-repr-vs-str/)
 	- [\_\_name\_\_ and \_\_main\_\_ in Python](https://realpython.com/if-name-main-python/)
-> [! abstract]+ dunder methods
-> The term "dunder" comes from "double underscore". These are also referred to as magic methods since they allow you to access built-in behaviors in Python.
 
 # Files and I/O
 - Files
