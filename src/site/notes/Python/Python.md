@@ -28,7 +28,7 @@
 	- [[Python/Python reference/Keywords\|Keyword]]
 	- [Boolean ](https://realpython.com/python-boolean/)
 	- [Strings](https://realpython.com/python-strings/)
-		- [String Methods](obsidian://open?vault=Documents&file=Python%2FPython%20reference%2FString%20Methods)
+		- [[Python/Python reference/String Methods\|String Methods]]
 		- [Convert Python String to Int](https://realpython.com/convert-python-string-to-int/)
 		- [Reverse String](https://realpython.com/reverse-string-python/)
 		- [Check Substring](https://realpython.com/python-string-contains-substring/)
@@ -55,6 +55,8 @@
 
 # Data Structures
 - [Lists & Tuples](https://realpython.com/python-lists-tuples/)
+	- [[Python/Python reference/List Methods\|List Methods]]
+	- [[Python/Python reference/Tuple Methods\|Tuple Methods]]
 	- [Python List](https://realpython.com/python-list/)
 	- [Reverse Lists](https://realpython.com/python-reverse-list/) 
 	- [Flatten Lists](https://realpython.com/python-flatten-list/) 
@@ -64,10 +66,12 @@
 	- [How to Append to a List](https://realpython.com/python-append/) 
 	- [The Python Object Counter](https://realpython.com/python-counter/)
 - [Dictionaries](https://realpython.com/python-dicts/)
+	- [[Python/Python reference/Dictionary Methods\|Dictionary Methods]]
 	- [Sort Dictionaries](https://realpython.com/sort-python-dictionary/) 
 	- [Iterate dictionary](https://realpython.com/iterate-through-dictionary-python/)
 	- [Order dictionary](https://realpython.com/python-ordereddict/)
 - [Sets](https://realpython.com/python-sets/)
+	- [[Python/Python reference/Set Methods\|Set Methods]]
 
 # Program Flow
 - [Conditionals](https://realpython.com/python-conditional-statements/)
