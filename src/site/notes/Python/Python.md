@@ -24,7 +24,7 @@
 - [Introduction](https://realpython.com/python-introduction/)
 - [Interacting](https://realpython.com/interacting-with-python/)
 - [Data Types](https://realpython.com/python-data-types/)
-	- [Built-in Functions](https://bit-garden.vercel.app/python/python-reference/built-in-functions/)
+	- [[Python/Python reference/Built-in Functions\|Built-in Functions]]
 	- [Keywords](Python/Python%20reference/Keywords.md)
 	- [Boolean ](https://realpython.com/python-boolean/)
 	- [Strings](https://realpython.com/python-strings/)
