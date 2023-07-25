@@ -118,6 +118,10 @@
 	- [Reading and Writing Files in Python](https://realpython.com/read-write-files-python/)
 	- [Reading and Writing CSV Files in Python](https://realpython.com/python-csv/)
 	- [Why You Should Close Files in Python](https://realpython.com/why-close-file-python/)
+> [!abstract]+ Dunder methods
+> The term "dunder" comes from "double underscore". These are also referred to as magic methods since they allow you to access built-in behaviors in Python.
+
+
 
 # Built in functions 
 
