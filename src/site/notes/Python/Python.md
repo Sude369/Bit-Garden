@@ -24,8 +24,8 @@
 - [Introduction](https://realpython.com/python-introduction/)
 - [Interacting](https://realpython.com/interacting-with-python/)
 - [Data Types](https://realpython.com/python-data-types/)
-	- [[Python/Python reference/Built-in Functions\|Built-in Functions]]
-	- [Keywords](Python/Python%20reference/Keywords.md)
+	- [[Python/Python reference/Built-in Functions\|Built-in Function]]
+	- [[Python/Python reference/Keywords\|Keyword]]
 	- [Boolean ](https://realpython.com/python-boolean/)
 	- [Strings](https://realpython.com/python-strings/)
 		- [String Methods](obsidian://open?vault=Documents&file=Python%2FPython%20reference%2FString%20Methods)
