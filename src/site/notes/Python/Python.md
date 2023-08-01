@@ -27,6 +27,7 @@
 	- [[Python/Python reference/Built-in Functions\|Built-in Function]]
 	- [[Python/Python reference/Keywords\|Keyword]]
 	- [Boolean ](https://realpython.com/python-boolean/)
+		- [NoneType](https://realpython.com/null-in-python/)
 	- [Strings](https://realpython.com/python-strings/)
 		- [[Python/Python reference/String Methods\|String Methods]]
 		- [Convert Python String to Int](https://realpython.com/convert-python-string-to-int/)
@@ -34,12 +35,12 @@
 		- [Check Substring](https://realpython.com/python-string-contains-substring/)
 		- [Replace String](https://realpython.com/replace-string-python/)
 		- [String Concatenation](https://realpython.com/python-string-concatenation/)
+		- [Split/Join/Concatenate](https://realpython.com/python-string-split-concatenate-join/)
 		- [String Formatting](https://realpython.com/python-string-formatting/)
 			- [str.format\(\)](https://realpython.com/python-formatted-output/)
 			- [Modulo \(&\) Formatting](https://realpython.com/python-modulo-string-formatting/)
 			- [f-Strings](https://realpython.com/python-f-strings/)
 			- [f-Strings (Py 3.12+)](https://realpython.com/python312-f-strings/)
-			- [Split/Join/Concatenate](https://realpython.com/python-string-split-concatenate-join/)  
 	- [Numbers](https://realpython.com/python-numbers/)
 		- [Complex Number](https://realpython.com/python-complex-numbers/)
 		- [Rounding](https://realpython.com/python-rounding/)
@@ -51,6 +52,7 @@
 - [Operators](https://realpython.com/python-operators-expressions/)
 	- [Modulo Operator in Python](https://realpython.com/python-modulo-operator/)
 	- [Bitwise operator](https://realpython.com/python-bitwise-operators/)
+	- [Boolean operator: not](https://realpython.com/python-not-operator/)
 - [Input/Output in Python](https://realpython.com/python-input-output/)
 
 # Data Structures
@@ -144,6 +146,6 @@
 [Python Shebang Line](https://realpython.com/python-shebang/)
 [Python Directory Tree Generator](https://realpython.com/directory-tree-generator-python/)
 [The Python Collections Module](https://realpython.com/python-collections-module/)
-
+[Interface](https://realpython.com/python-interface/)
 iter
 https://realpython.com/python-iterators-iterables/
