@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/python/python-reference/tuple-methods/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/python/python-reference/tuple-methods/"}
 ---
 
-- ### X
+- ### Count and Index
 	- **.count()**
 		- The `.count()` method is a tuple method in Python used to count the occurrences of a specific element in a tuple.
 		- **Syntax:**
