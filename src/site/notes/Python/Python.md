@@ -8,6 +8,10 @@
 > The purpose was to curate a well-structured roadmap for learning Python using existing materials. But I did not author any of the original content linked to from this roadmap.
 > 
 > Please visit the sites linked here for full credit to the authors of the tutorials, articles, and other resources that comprise this learning path. My contribution was solely in compiling, organizing, and formatting these links into a cohesive roadmap format.
+> 
+> While notes which are internally linker are indeed authored by me, sourced from various different sources.
+
+
 
 
 # Getting Started with Python
@@ -25,7 +29,7 @@
 - [Interacting](https://realpython.com/interacting-with-python/)
 - [Data Types](https://realpython.com/python-data-types/)
 	- [[Python/Python reference/Built-in Functions\|Built-in Function]]
-	- [[Python/Python reference/Keywords\|Keyword]]
+	- [[Python/Python reference/Keywords\|Keywords]]
 	- [Boolean ](https://realpython.com/python-boolean/)
 		- [NoneType](https://realpython.com/null-in-python/)
 	- [Strings](https://realpython.com/python-strings/)
@@ -49,6 +53,7 @@
 	- [Constants](https://realpython.com/python-constants/)
 	- [Global Variables](https://realpython.com/python-use-global-variable-in-function/)
 	- [Python Namespaces and Scope](https://realpython.com/python-namespaces-scope/)
+	- [Assignment operator](https://realpython.com/python-assignment-operator/#augmented-assignment-operators-in-python)
 - [Operators](https://realpython.com/python-operators-expressions/)
 	- [Modulo Operator in Python](https://realpython.com/python-modulo-operator/)
 	- [Bitwise operator](https://realpython.com/python-bitwise-operators/)
