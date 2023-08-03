@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python/python/","tags":["gardenEntry"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/python/python/","tags":["gardenEntry"]}
 ---
 
 > [!note]+
