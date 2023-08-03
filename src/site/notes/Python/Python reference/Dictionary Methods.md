@@ -1,3 +1,3 @@
 ---
-{"dg-publish":true,"permalink":"/python/python-reference/dictionary-methods/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/python/python-reference/dictionary-methods/"}
 ---
