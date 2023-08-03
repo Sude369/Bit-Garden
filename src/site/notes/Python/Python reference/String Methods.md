@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/python/python-reference/string-methods/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/python/python-reference/string-methods/"}
 ---
 
-- ### Case Manipulation
-	- **.capitalize()**
+- ### Case Manipulation 
+	- **.capitalize()** 
 		-  **.capitalize()** is a string method in Python that is used to capitalize the first character of a string while converting all other characters to lowercase. It doesn't modify the original string but returns a new string with the capitalized first character.
 		- **Syntax:** 
 			```python
