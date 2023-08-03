@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/python/python-reference/set-methods/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/python/python-reference/set-methods/"}
 ---
 
