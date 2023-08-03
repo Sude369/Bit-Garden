@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python/python-reference/keywords/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/python/python-reference/keywords/"}
 ---
 
 
