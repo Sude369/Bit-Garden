@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python/python-reference/built-in-functions/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/python/python-reference/built-in-functions/"}
 ---
 
 [Built-in Functions](https://realpython.com/python-data-types/#built-in-functions)
