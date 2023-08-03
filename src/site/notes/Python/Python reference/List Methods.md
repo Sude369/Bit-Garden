@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python/python-reference/list-methods/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/python/python-reference/list-methods/"}
 ---
 
 - ### Adding elements
