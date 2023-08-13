@@ -33,7 +33,7 @@
 	- [Boolean ](https://realpython.com/python-boolean/)
 		- [NoneType](https://realpython.com/null-in-python/)
 	- [Strings](https://realpython.com/python-strings/)
-		- [[Python/Python reference/String Methods\|String Methods]]
+		- [[Python/Python reference/String Methods\|Python/Python reference/String Methods]]
 		- [Convert Python String to Int](https://realpython.com/convert-python-string-to-int/)
 		- [Reverse String](https://realpython.com/reverse-string-python/)
 		- [Check Substring](https://realpython.com/python-string-contains-substring/)
@@ -138,8 +138,9 @@
 
 # Unorganised
 [Python Traceback](https://realpython.com/python-traceback/)
-[Sorting in Python](https://realpython.com/python-sort/)
 [Python KeyError Exceptions](https://realpython.com/python-keyerror/)
+[Python Exceptions](https://realpython.com/python-exceptions/)
+[Sorting in Python](https://realpython.com/python-sort/)
 [Python Namedtuple](https://realpython.com/python-namedtuple/)
 [The Python Reduce Function](https://realpython.com/python-reduce-function/)
 [Pointers in Python](https://realpython.com/pointers-in-python/)
@@ -152,5 +153,9 @@
 [Python Directory Tree Generator](https://realpython.com/directory-tree-generator-python/)
 [The Python Collections Module](https://realpython.com/python-collections-module/)
 [Interface](https://realpython.com/python-interface/)
+https://realpython.com/python-type-checking/
+https://realpython.com/run-python-scripts/
+https://realpython.com/documenting-python-code/
+
 iter
 https://realpython.com/python-iterators-iterables/
